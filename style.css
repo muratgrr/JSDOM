@@ -1,0 +1,38 @@
+.div-buton {
+  margin-top: 200px;
+  /* display: block; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#btn {
+  margin-top: 50px;
+  padding: 30px;
+  font-size: 2rem;
+  background-color: bisque;
+  border: 2px solid blue;
+  border-radius: 10px;
+  cursor: pointer;
+  color: lightgreen;
+}
+h1 {
+  color: brown;
+}
+
+.div-input {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+#input {
+  padding: 10px;
+  width: 200px;
+}
+
+#checkbox {
+  padding: 20px;
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+}
